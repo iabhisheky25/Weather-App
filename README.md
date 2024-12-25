@@ -36,7 +36,9 @@ A modern, responsive Weather App that provides real-time weather information usi
    ```  
 
 ## Screenshots  
-![Weather App Screenshot](https://via.placeholder.com/800x400?text=Weather+App+Screenshot)  
+
+![Screenshot 2024-12-25 234549](https://github.com/user-attachments/assets/74b12e85-8520-4458-8d20-59fc0c4e3ea3)
+
 
 ## Future Enhancements  
 - Add a "Favorites" feature to save frequently searched locations  
